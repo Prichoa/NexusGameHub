@@ -245,4 +245,4 @@ A Plataforma de Mini Jogos mostra como tecnologias simples da web podem criar ex
 
 Se gostou do projeto, deixe uma ⭐ no repositório!
 
-AUTORES: 2009Lucas, Prichoa, ErikaMulling.
+AUTORES: https://github.com/2009Lucas, https://github.com/Prichoa, https://github.com/ErikaMulling.
