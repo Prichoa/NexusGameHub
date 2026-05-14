@@ -244,3 +244,5 @@ Abra o arquivo index.html no navegador.
 A Plataforma de Mini Jogos mostra como tecnologias simples da web podem criar experiências divertidas, interativas e visualmente impressionantes. Cada jogo foi pensado para oferecer partidas rápidas, acessíveis e cheias de personalidade.
 
 Se gostou do projeto, deixe uma ⭐ no repositório!
+
+AUTORES: 2009Lucas, Prichoa, ErikaMulling.
